@@ -10,6 +10,7 @@ namespace ExemploGit
             Console.WriteLine("Terminei essa merda com sucesso acho que eles entenderam ,...");
             Console.WriteLine("Aluno Thiago > Alunos IFPR");
             Pessoa fagner = new Pessoa("Fagner", DateTime.Now);
+            Console.WriteLine("Salvando alteracao antes do pull");
         }
     }
 }
